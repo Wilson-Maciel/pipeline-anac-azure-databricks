@@ -1,0 +1,9 @@
+{
+	"name": "Factory-DataBricks-WM",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23df6402-e984-44ec-b338-3433a7cb401b",
+		"tenantId": "d7ec2bc4-4863-4a7e-b06e-88e1aaa68f47"
+	}
+}
